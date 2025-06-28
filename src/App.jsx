@@ -5,7 +5,7 @@ import { Basket } from './components/Basket/Basket';
 import { Mixes } from "./components/Mixes/Mixes";
 import { Home } from "./components/Home/Home";
 import { Feeds } from "./components/Feeds/feeds";
-import { Corms } from "./components/Corms/corms";
+import { Corms } from "./components/Corms/Corms";
 import './app.css'
 import { Kits } from "./components/KIts/Kits";
 import { Accessories } from "./components/Accessories/Accessories";
