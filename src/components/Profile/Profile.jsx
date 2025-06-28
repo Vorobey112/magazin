@@ -15,5 +15,5 @@ export const Profile = () => {
             <button className='w-[10rem] bg-[#3FCF5E] text-white rounded-[3px] p-[6px] mt-[2rem]' onClick={() => dispatch(logout())}>Выйти из аккаунта</button>
             </div>
     </div>
-  )
+  ) 
 }
