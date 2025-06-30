@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <BrowserRouter>
+      <BrowserRouter basename="/magazin">
         {email ? ( 
           <>
             <Header /> 
